@@ -9,3 +9,5 @@ edition = "2018"
 raw_tty = "0.1.0"
 nom = { version="6", default-features=false }
 itertools = { version = "0.10", default-features=false }
+
+[lib]
